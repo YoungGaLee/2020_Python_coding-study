@@ -6,4 +6,4 @@
 
 https://www.hackerrank.com/domains/tutorials/30-days-of-code
 
-HackerRank의 30 days 문제풀고, 코드 공유하기~
+HackerRank의 Python 문제풀고, 코드 공유하기~
