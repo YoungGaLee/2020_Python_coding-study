@@ -1,4 +1,1 @@
-## Practice >> Python >> Basic Data Types >> Nested Lists
-
-
-https://www.hackerrank.com/challenges/nested-list/problem
+## Practice >> Python >> Basic Data Types >> [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
