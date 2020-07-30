@@ -1,0 +1,3 @@
+## Practice >> Python >> Basic Data Types >> List Comprehensions
+
+https://www.hackerrank.com/challenges/list-comprehensions/problem
