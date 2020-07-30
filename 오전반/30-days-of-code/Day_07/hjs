@@ -1,0 +1,12 @@
+#!/bin/python
+
+import math
+import os
+import random
+import re
+import sys
+
+n = int(raw_input().strip())
+arr = map(int,raw_input().strip().split(' '))
+for i in range(n):
+    print arr[n-1-i],
