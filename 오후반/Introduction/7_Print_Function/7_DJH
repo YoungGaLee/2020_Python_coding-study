@@ -1,0 +1,6 @@
+if __name__ == '__main__':
+    n = int(input())
+    number = 1
+    for nubmer in range(n):
+        print(number,end='')
+        number=number+1
