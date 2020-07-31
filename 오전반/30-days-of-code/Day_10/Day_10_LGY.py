@@ -8,17 +8,15 @@ import sys
 if __name__ == '__main__':
     n = int(input())
     Binary = format(n, 'b')
-    total = []
     count = 0
+    ans_max = 0
 
     for i in Binary:
         if i == '1' : 
             count += 1
+            if count > ans_max : ans_max = count
         
         else :
-            total.append(count)
             count = 0 
 
-        total.append(count)
-        
-    print(max(total))
+    print(ans_max)
