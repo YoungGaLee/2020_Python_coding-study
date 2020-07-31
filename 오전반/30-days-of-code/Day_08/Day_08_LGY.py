@@ -1,5 +1,3 @@
-# 1번 Runtime error
-
 n = int(input()) 
 dic = {}
 
@@ -9,13 +7,22 @@ for _ in range(n):
 
 P = dic.keys()
 
-for _ in range(n): 
-    person = input() 
+state = 'keep_going'
 
-    if person in P: 
-        number = dic[person]
-        print("{}={}".format(person, number)) 
+while(state == 'keep_going'):
+    try:
+        person = input()
 
-    else: 
-        print("Not found")
+        if person in P: 
+            number = dic[person]
+            print("{}={}".format(person, number)) 
+
+        else: 
+            print("Not found")
+
+    except:
+        state = 'stop'
+        
+
+
         
