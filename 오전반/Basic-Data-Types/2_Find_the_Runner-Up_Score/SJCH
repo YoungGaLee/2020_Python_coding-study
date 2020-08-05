@@ -1,0 +1,10 @@
+if __name__ == '__main__':
+    n = int(input())
+    arr = map(int, input().split())
+    arr = list(arr)
+    arr.sort()
+    a = arr[-1]
+    while a in arr :
+        arr.remove(a)
+    
+    print(arr[-1])
