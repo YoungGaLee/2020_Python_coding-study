@@ -1,0 +1,14 @@
+Nlist = []
+Slist = []
+
+if __name__ == '__main__':
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+        Nlist+=[[name,score]]
+        Slist+=[score]
+    A = sorted(list(set(Slist)))[1]
+
+    for b,c in sorted(Nlist):
+        if c==A:
+            print(b)
