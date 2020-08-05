@@ -1,0 +1,22 @@
+if __name__ == '__main__':
+    N = int(input())
+    lis = []
+
+    for i in range(N):
+        query = input()
+        arr = list(query.split())
+
+        if (arr[0] == 'insert'):
+            lis.insert(int(arr[1]), int(arr[2]))
+        elif (arr[0] == 'remove'):
+            lis.remove(int(arr[1]))
+        elif (arr[0] == 'append'):
+            lis.append(int(arr[1]))
+        elif (arr[0] == 'sort'):
+            lis.sort()
+        elif (arr[0] == 'pop'):
+            lis.pop()
+        elif (arr[0] == 'reverse'):
+            lis.reverse()
+        elif (arr[0] == 'print'):
+            print(lis)
