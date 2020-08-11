@@ -1,23 +1,23 @@
-## ½Ç½À ¼³¸í
+## ì‹¤ìŠµ ì„¤ëª…
 
-- **ÁÖ¾îÁø µ¥ÀÌÅÍ¸¦ ÀÌ¿ëÇÏ¿© X µ¥ÀÌÅÍ(1~3¹øÂ° ¿­)À» ³Ö¾úÀ» ¶§, Y µ¥ÀÌÅÍ(4¹øÂ° ¿­)ÀÇ °ª°ú ±ÙÁ¢ÇÏ°Ô ¿¹ÃøÇÏ´Â ¸ğµ¨À» ±¸ÇöÇÏ±â.**
+- **ì£¼ì–´ì§„ ë°ì´í„°ë¥¼ ì´ìš©í•˜ì—¬ X ë°ì´í„°(1~3ë²ˆì§¸ ì—´)ì„ ë„£ì—ˆì„ ë•Œ, Y ë°ì´í„°(4ë²ˆì§¸ ì—´)ì˜ ê°’ê³¼ ê·¼ì ‘í•˜ê²Œ ì˜ˆì¸¡í•˜ëŠ” ëª¨ë¸ì„ êµ¬í˜„í•˜ê¸°.**
 
-- ÃÖÁ¾ÀûÀ¸·Î ¸ğµ¨ÀÌ ÇĞ½ÀÇÏ¸é¼­ cost(loss) °ªÀÌ ¶³¾îÁüÀ» º¸¿©ÁÖ±â.
+- ìµœì¢…ì ìœ¼ë¡œ ëª¨ë¸ì´ í•™ìŠµí•˜ë©´ì„œ cost(loss) ê°’ì´ ë–¨ì–´ì§ì„ ë³´ì—¬ì£¼ê¸°.
 <br>
 
-- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) ÀÌ¿ëÇÏ¿© ÄÚµå ÀÛ¼ºÇÏ¼¼¿ä.
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) ì´ìš©í•˜ì—¬ ì½”ë“œ ì‘ì„±í•˜ì„¸ìš”.
 
 <br>
 
-## µ¥ÀÌÅÍ ´Ù¿î·Îµå
+## ë°ì´í„° ë‹¤ìš´ë¡œë“œ
 
-- ´Ù¿î·Îµå: [data-01-test-score.zip](https://github.com/Artinto/Online-edu/files/5055110/data-01-test-score.zip) (zip ÆÄÀÏÀ» Ç®¾î¼­ »ç¿ëÇÏ¼¼¿ä.)
+- ë‹¤ìš´ë¡œë“œ: [data-01-test-score.zip](https://github.com/Artinto/Online-edu/files/5055110/data-01-test-score.zip) (zip íŒŒì¼ì„ í’€ì–´ì„œ ì‚¬ìš©í•˜ì„¸ìš”.)
 
-   *¿øº»: https://github.com/deeplearningzerotoall/PyTorch/blob/master/data-01-test-score.csv*
+   *ì›ë³¸: https://github.com/deeplearningzerotoall/PyTorch/blob/master/data-01-test-score.csv*
 <br>
 
-## Âü°í ¸µÅ©
+## ì°¸ê³  ë§í¬
 
-- [¸ğµÎ¸¦ À§ÇÑ µö·¯´× ½ÃÁğ 2 - PyTorch (lab-04_2)](https://github.com/deeplearningzerotoall/PyTorch/blob/master/lab-04_2_load_data.ipynb)
+- [ëª¨ë‘ë¥¼ ìœ„í•œ ë”¥ëŸ¬ë‹ ì‹œì¦Œ 2 - PyTorch (lab-04_2)](https://github.com/deeplearningzerotoall/PyTorch/blob/master/lab-04_2_load_data.ipynb)
 
-- À§ ¸µÅ©¿¡¼­ **Loading Data from .csv file** ºÎÅÍ Âü°íÇÏ½Ã¸é¼­ ÄÚµå ÀÛ¼ºÇÏ½Ã¸é µË´Ï´Ù.
+- ìœ„ ë§í¬ì—ì„œ ***Loading Data from .csv file*** ë¶€í„° ì°¸ê³ í•˜ì‹œë©´ì„œ ì½”ë“œ ì‘ì„±í•˜ì‹œë©´ ë©ë‹ˆë‹¤.
